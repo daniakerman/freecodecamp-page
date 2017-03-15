@@ -1,0 +1,45 @@
+.jumbotron {
+    background-image: url("http://i345.photobucket.com/albums/p380/daniaum/feet_zpsydqxmbmr.jpg");
+    background-size: cover;
+    margin-top: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    box-shadow: 0px 0px 4px #000000;
+}
+.jumbotron-header {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px #000000;
+}
+.panel {
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    box-shadow: 0px 0px 1px #000000;
+}
+.navbar-brand {
+    font-family: 'Bangers', cursive;
+    font-size-adjust: auto;
+}
+p {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px #000000;
+}
+h1 {
+    font-family: 'Creepster', cursive;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px #000000;
+}
+body {
+    background: url("http://i345.photobucket.com/albums/p380/daniaum/wood_zpsthqofu3w.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 4px #000000;
+}
