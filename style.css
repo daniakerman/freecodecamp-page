@@ -12,6 +12,7 @@
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
 }
+
 .panel {
     border-style: solid;
     border-color: gray;
@@ -27,6 +28,10 @@ p {
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
 }
+
+a {
+    color: white;
+}
 h1 {
     font-family: 'Creepster', cursive;
     color: white;
@@ -40,6 +45,7 @@ body {
 footer {
     padding: 10px;
     text-align: center;
+    border-top-style: solid;
     color: white;
     text-shadow: 1px 1px 4px #000000;
 }
