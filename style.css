@@ -12,7 +12,6 @@
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
 }
-
 .panel {
     border-style: solid;
     border-color: gray;
@@ -23,12 +22,18 @@
     font-family: 'Bangers', cursive;
     font-size-adjust: auto;
 }
-p {
+.black-opacity {
     color: white;
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
 }
-
+.black-opacity:hover {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 4px #000000;
+    background-color: black;
+    opacity: 0.7;
+}
 a {
     color: white;
 }
