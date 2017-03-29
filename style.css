@@ -26,6 +26,8 @@
     color: white;
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
+    transition: .55s ease-in;
+    -webkit-transition: .55s ease-in;
 }
 .black-opacity:hover {
     color: white;
